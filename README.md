@@ -13,9 +13,10 @@ inception v3 | 0.82 | 4.63 | 0.83 | **4.67** | 0.82 | 4.99
 resnet 101 | **0.93** | **1.93** | **0.84** | 4.71 | **0.86** | **4.77**
 ## training details
 data augmentation : 
-- flip up down left right
-- adjust hue
-- adjust saturation
-- adjust contrast
+- random flip up down left right
+- random hue
+- random saturation
+- random contrast
+- random crop
 ## wandb details
 https://wandb.ai/wr80340/animal
