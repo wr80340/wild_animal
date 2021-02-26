@@ -3,7 +3,7 @@
 Wildlife image collection with 14013 image and 20 kinds of animal.  
 task : image classification  
 epoch : 100  
-LR : 1e-4
+LR : 1e-4  
 data link : https://www.kaggle.com/virtualdvid/oregon-wildlife   
 ## results 
 pretrained weights | train accuracy | train loss | val accuracy | val loss | test accuracy | test loss 
