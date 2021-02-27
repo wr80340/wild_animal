@@ -1,11 +1,16 @@
 # Oregon Wildlife
-## introduction
+## Introduction
 Wildlife image collection with 14013 image and 20 kinds of animal.  
 task : image classification  
+## Try different pretrained weights
+- vgg16
+- inception v3
+- resnet 101
+## parameter settings
 epoch : 100  
 LR : 1e-4  
 data link : https://www.kaggle.com/virtualdvid/oregon-wildlife   
-## results 
+## Results 
 pretrained weights | train accuracy | train loss | val accuracy | val loss | test accuracy | test loss 
 --- | --- | --- | --- |--- |--- |--- 
 vgg16 | **0.93** | 2.38 | 0.81 | 6.60 | 0.80 | 8.25
