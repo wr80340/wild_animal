@@ -24,4 +24,5 @@ data augmentation :
 - random contrast
 - random crop
 ## wandb details
+A website which records loss and accuracy  
 https://wandb.ai/wr80340/animal
